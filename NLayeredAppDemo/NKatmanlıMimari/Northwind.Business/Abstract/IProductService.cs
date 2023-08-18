@@ -1,4 +1,5 @@
 ﻿using Northwind.Entities;
+using Northwind.Entities.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -9,6 +10,9 @@ namespace Northwind.Business.Abstract
 {
     public interface IProductService
     {
+        void Add(Product product);
         List<Product> GetAll();
+        List<Product> GetProductsByCategory(int CategoryID);
+        List<Product> GetProductsByProductName(string ProductName);
     }
 }

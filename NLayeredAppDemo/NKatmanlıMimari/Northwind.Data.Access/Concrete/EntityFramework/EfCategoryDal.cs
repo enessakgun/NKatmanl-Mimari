@@ -1,4 +1,5 @@
-﻿using Northwind.Entities.Concrete;
+﻿using Northwind.Data.Access.Abstract;
+using Northwind.Entities.Concrete;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Northwind.Data.Access.Concrete.EntityFramework
 {
-    public class EfCategoryDal:EfEntityRepositoryBase<Category,NorthwindContext>
+    public class EfCategoryDal:EfEntityRepositoryBase<Category,NorthwindContext>,ICategoryDal
     {
     }
 }
