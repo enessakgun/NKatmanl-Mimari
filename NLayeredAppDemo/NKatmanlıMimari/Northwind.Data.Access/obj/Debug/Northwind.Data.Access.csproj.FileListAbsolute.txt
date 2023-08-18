@@ -1,0 +1,14 @@
+C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Data.Access\obj\Debug\Northwind.Data.Access.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Data.Access\obj\Debug\Northwind.Data.Access.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Data.Access\bin\Debug\Northwind.Data.Access.dll.config
+C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Data.Access\bin\Debug\Northwind.Data.Access.dll
+C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Data.Access\bin\Debug\Northwind.Data.Access.pdb
+C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Data.Access\bin\Debug\EntityFramework.dll
+C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Data.Access\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Data.Access\bin\Debug\Northwind.Entities.dll
+C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Data.Access\bin\Debug\Northwind.Entities.pdb
+C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Data.Access\bin\Debug\EntityFramework.xml
+C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Data.Access\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Data.Access\obj\Debug\Northwind.Data.Access.csproj.CopyComplete
+C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Data.Access\obj\Debug\Northwind.Data.Access.dll
+C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Data.Access\obj\Debug\Northwind.Data.Access.pdb
