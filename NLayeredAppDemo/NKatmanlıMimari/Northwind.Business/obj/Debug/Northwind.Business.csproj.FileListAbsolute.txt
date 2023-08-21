@@ -12,3 +12,12 @@ C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Business\obj
 C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Business\obj\Debug\Northwind.Business.csproj.CopyComplete
 C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Business\obj\Debug\Northwind.Business.dll
 C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Business\obj\Debug\Northwind.Business.pdb
+C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Business\bin\Debug\Northwind.Business.dll.config
+C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Business\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Business\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Business\bin\Debug\FluentValidation.dll
+C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Business\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Business\bin\Debug\FluentValidation.xml
+C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Business\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\hp\source\repos\NLayeredAppDemo\NKatmanlıMimari\Northwind.Business\bin\Debug\System.Threading.Tasks.Extensions.xml
